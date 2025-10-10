@@ -55,13 +55,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="53" alt="css3 logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="53" alt="javascript logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="53" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="53" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="53" alt="react logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="53" alt="html5 logo"  />
 </div>
