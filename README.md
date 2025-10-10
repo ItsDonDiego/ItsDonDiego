@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">✨ I’m currently taking my Bachelor of Science in Computer Engineering In FEU Institute of Technology.<br>✨ I'm currently learning CSS, JavaScript, ReactJS, and HTML.<br>✨ In my free time I play games, edit and record videos, build and learn system units and explore new languages and tools.</p>
+<p align="left">✨ I’m currently taking my Bachelor of Science in Computer Engineering In FEU Institute of Technology.<br>✨ In my free time I play games, edit and record videos, build and learn system units and explore new languages and tools.</p>
 
 ###
 
