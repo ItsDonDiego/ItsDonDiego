@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">- I'm James Cedrick Magbanua, an Aspiring Software Engineer.</h3>
+<h3 align="left">- I'm James Cedrick Magbanua, an Aspiring Professional.</h3>
 
 ###
 
