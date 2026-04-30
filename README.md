@@ -4,14 +4,6 @@
   <img height="" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlvcDFobG1tY25yNDRybXFlMno4cTVqeWt4OWRqZGh4aXF0ZHUxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5iCpBsEJN3E59BbxU/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ItsDonDiego/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">👋 Hey, welcome to my profile!</h1>
 
 ###
